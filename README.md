@@ -19,7 +19,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="60", height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60", height="60">
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60", height="60">
-    <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60", height="60">
 </p>
 
 
