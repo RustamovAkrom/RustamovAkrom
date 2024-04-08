@@ -44,10 +44,6 @@
 ## 🔥🔥🔥 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/RustamovAkrom)
 
- + Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom)](https://github.com/RustamovAkrom/github-readme-stats)
-
 #### Codewars
 [![codewars](https://www.codewars.com/users/Akromjonrustamov/badges/large)](https://www.codewars.com/users/Akromjonrustamov)   
 
