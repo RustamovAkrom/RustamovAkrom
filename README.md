@@ -44,9 +44,6 @@
 ## 🔥🔥🔥 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/RustamovAkrom)
 
-### Demo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact)](https://github.com/RustamovAkrom/github-readme-stats)
-
  + Compact layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom)](https://github.com/RustamovAkrom/github-readme-stats)
