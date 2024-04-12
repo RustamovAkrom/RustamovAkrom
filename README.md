@@ -1,6 +1,7 @@
 #  WELCOME TO MY GITHUB
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+🖐️+Im+Python+Django+Developer👨‍💻)](https://git.io/typing-svg)
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+🖐️+Im+Python+Django+Developer)](https://git.io/typing-svg)
 
 <picture>
   <source
@@ -17,13 +18,20 @@
   />
 </picture>
 
+<center>
+
+![](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+
+</center>
+
 ---
-# 😎 my skils 
+## 😎 ```My skils```
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="60" height="60">
     <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" width="60", height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60", height="60">
@@ -35,6 +43,10 @@
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60", height="60">
 </p>
 
+## My Like Code Editings 
+
+
+
 ## 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=RustamovAkrom)](https://github.com/RustamovAkrom/github-profile-trophy)
 
@@ -44,17 +56,16 @@
 ## 🔥🔥🔥 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/RustamovAkrom)
 
+
 #### Codewars
 [![codewars](https://www.codewars.com/users/Akromjonrustamov/badges/large)](https://www.codewars.com/users/Akromjonrustamov)   
 
+
+
 <center>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RustamovAkrom&theme=solarized_dark)
+![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RustamovAkrom&theme=solarized_dark)
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RustamovAkrom&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RustamovAkrom&theme=solarized_dark)
-
-</center>
+<center>
