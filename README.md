@@ -41,6 +41,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="60", height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60", height="60">
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="60", height="60">
+    <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/numpy/numpy/ab7649fe2ed8f0f0260322d66631b8dfab57deff/branding/logo/primary/numpylogo.svg" width="125">
 </p>
 
 ## My Like Code Editings 
@@ -66,6 +68,5 @@
 
 ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 
 <center>
