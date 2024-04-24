@@ -1,4 +1,4 @@
-#  WELCOME TO MY GITHUB
+#  Welcome my github 
 ![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+🖐️+Im+Python+Django+Developer)](https://git.io/typing-svg)
@@ -30,6 +30,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" width="60" height="60">
     <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="60" height="60">
     <img src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" width="60", height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="60" height="60">
@@ -58,11 +59,11 @@
 ## 🔥🔥🔥 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/RustamovAkrom)
 
-
+<!-- 
 #### Codewars
 [![codewars](https://www.codewars.com/users/Akromjonrustamov/badges/large)](https://www.codewars.com/users/Akromjonrustamov)   
 
-
+ -->
 
 <center>
 
