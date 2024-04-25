@@ -31,8 +31,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" width="60" height="60">
     <img src="https://user-images.githubusercontent.com/52716203/135530036-3ed731f6-e0db-4de6-8667-9af75656f2f4.png" width="100" height="60">
-    <img src="https://play-lh.googleusercontent.com/BFd23y6of_vzLBPgdsYKO0-ZW1zF5xq-fWjpRzXi8yqGH2yT6K5z8OTApWqgI9_c1z8" width="60" height="60">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="60" height="60">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/github/explore/5d823171791ab9e6bc894aea5b350c996febf511/topics/kivy/kivy.png" width="60", height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="60" height="60">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60">
