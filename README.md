@@ -30,9 +30,12 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=JahongirHakimjonov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="JahongirHakimjonov github stats" /> 
-  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahongirHakimjonov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="RustamovAkrom github stats" />
+
+  <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&border_radius=5&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="86%" height="100%"/></a>
 </div>
@@ -54,6 +57,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40", height="40">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40", height="40">
     <img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" width="40", height="40">
-    <!-- <img src="https://raw.githubusercontent.com/numpy/numpy/ab7649fe2ed8f0f0260322d66631b8dfab57deff/branding/logo/primary/numpylogo.svg" width="100"> -->
+    <img src="https://raw.githubusercontent.com/numpy/numpy/ab7649fe2ed8f0f0260322d66631b8dfab57deff/branding/logo/primary/numpylogo.svg" width="100">
+    <img src="https://github.com/python-telegram-bot/logos/blob/master/logo/png/ptb-logo_480.png?raw=true" width="40" height="40">
 </p>
 
