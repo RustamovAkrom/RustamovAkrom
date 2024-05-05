@@ -1,4 +1,4 @@
-<div align="center" style="color: black;"><h1><b>Rustamov Akrom</b></h1></div>
+<div align="center" style="color: black;"><h1><b> Akrom Rustamov </b></h1></div>
 <div align="center">
 <picture>
   <source
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=blue-green&hide_border=true" alt="GitHub Streak" width="87%" height="87%"/></a>
 </div>
 
 <div align="center">
@@ -60,3 +60,16 @@
     <img src="https://github.com/python-telegram-bot/logos/blob/master/logo/png/ptb-logo_480.png?raw=true" width="40" height="40">
 </p>
 
+<div align="center"><h2><\></h2></div>
+
+
+  + ### About
+    + #### code 👨‍💻 | gym 💪 | sleep  🛌 | eat 🍴 | read 📖
+ 
+  + ### Contact
+
+    + #### ☎️: +998 (95)-878-62-77<>
+
+    + #### ✈️: https://t.me/RustamovAkrom2007
+    
+    + #### 📧: akromjonrustamov56@gmail.com
