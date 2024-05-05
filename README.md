@@ -17,30 +17,29 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hello+%F0%9F%96%90%EF%B8%8F+my+name++Akrom+Rustamov;Im+Python+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Welcome+to+my+github;My+name+Akrom+Rustamov;I+am+Python+Developer;I%60m+from+Uzbekistan" alt="Typing SVG" /></a>
 </div>
-
+<!-- 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Image Description">
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RustamovAkrom&theme=darkhub" alt="GitHub Profile Trophy" height="100%" wdith="100%">
 </div>
 
 <div align="center">  
-
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="RustamovAkrom github stats" />
-
   <img width="37%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&border_radius=5&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="86%" height="100%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<b>Language tools</b>
+<div align="center">
+<h3><b>Language tools</b></h3>
+</div>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40">
