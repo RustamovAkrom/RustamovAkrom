@@ -1,16 +1,29 @@
-<style>
-  .center {
-    text-align: center;
-  }
-</style>
-<div class="center">
+
+<center>
 
 # Hi there, I'm [Akrom](https://github.com/username) 👋
 
-</div>
 
-<div align="right">
-<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="50%" height="50%"  style="border-radius: 3%;">
+</center>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+<div align="center">
+<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="45%" height="50%"  style="border-radius: 3%;">
+<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="45%" height="50%"  style="border-radius: 3%;">
 </img>
 </div>
 
