@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center" style="color: black;"><h1><b> Akrom Rustamov </b></h1></div>
 <div align="center">
 <picture>
@@ -64,18 +64,6 @@
 <div align="center"><h2><\></h2></div>
 
 
-  + ### About
-    + #### code 👨‍💻 | gym 💪 | sleep  🛌 | eat 🍴 | read 📖
- 
-  + ### Contact
-
-    + #### ☎️: +998 (95)-878-62-77
-
-    + #### ✈️: https://t.me/RustamovAkrom2007
-    
-    + #### 📧: akromjonrustamov56@gmail.com
-=======
-## Hello 🖐️ Im Backend Python (Django) developer 
-
-![cat](https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg)
->>>>>>> d9b31d4 (image)
+  #### ☎️: +998 (95)-878-62-77
+  #### ✈️: https://t.me/RustamovAkrom2007
+  #### 📧: akromjonrustamov56@gmail.com
