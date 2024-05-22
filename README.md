@@ -22,8 +22,7 @@
 </picture>
 </div>
 <div align="center">
-<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="45%" height="50%"  style="border-radius: 3%;">
-<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="45%" height="50%"  style="border-radius: 3%;">
+<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="86%" height="87%"  style="border-radius: 3%;">
 </img>
 </div>
 
@@ -55,6 +54,10 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
+
+
+
 
 ## Learning...
 
@@ -69,3 +72,4 @@
 <div>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="SVG Image">
 </div>
+
