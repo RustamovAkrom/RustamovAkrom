@@ -70,6 +70,20 @@
 
 <!-- Footer -->
 <div>
+<center>
+<div align="center"><h3>Contacts</h3><div>
+<div align="left">
+
+## > Telegram links:
+  + Profile ✈️: https://t.me/RustamovAkrom2007
+  + Bot 🤖: https://t.me/akromrustamov_bot
+  + Channel 👨‍💻: https://t.me/+4Ta1Q9nao-g2ZWFi
+
+## > Phone - ☎️: +998 (95)-878-62-77
+
+## > Email - 📧: akromjonrustamov56@gmail.com
+</div>
+</center>
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="SVG Image">
 </div>
-
