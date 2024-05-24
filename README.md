@@ -66,6 +66,7 @@
 <img src="https://img.shields.io/badge/fastui-%23008080.svg?style=for-the-badge&logo=fastui&logoColor=white" alt="FastUi">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Open CV"></img>
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow"></img>
+<img src="https://img.shields.io/badge/pydantic-%23007ec6.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"></img>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"></img>
 
@@ -88,5 +89,13 @@
 </div>
 </center>
 
+<!-- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Travis CI](https://img.shields.io/badge/travisci-%232B2F77.svg?style=for-the-badge&logo=travis-ci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%2334343F.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="SVG Image">
 </div>
+
+
