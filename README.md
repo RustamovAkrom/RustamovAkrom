@@ -69,8 +69,10 @@
 <img src="https://img.shields.io/badge/pydantic-%23007ec6.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"></img>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"></img>
+<img src="https://img.shields.io/badge/circleci-%2334343F.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/" alt="CircleCi">
 
 </div>
+
 
 <!-- Footer -->
 <div>
