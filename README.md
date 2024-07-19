@@ -3,7 +3,6 @@
 
 # Hi there, I'm [Akrom](https://rustamovakrom.github.io/Portfolio/) 👋
 
-
 </center>
 <div align="center">
 <picture>
@@ -59,26 +58,12 @@
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
-
-
-
-## Learning...
-<img src="https://img.shields.io/badge/fastui-%23008080.svg?style=for-the-badge&logo=fastui&logoColor=white" alt="FastUi">
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Open CV"></img>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow"></img>
-<img src="https://img.shields.io/badge/pydantic-%23007ec6.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"></img>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"></img>
-<img src="https://img.shields.io/badge/circleci-%2334343F.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/" alt="CircleCi">
-
 </div>
 
 
 <!-- Footer -->
 <div>
 <center>
-<div align="center"><h3>Contacts</h3><div>
-<div align="left">
 
 ## > Telegram links:
   + Profile ✈️: https://t.me/RustamovAkrom2007
