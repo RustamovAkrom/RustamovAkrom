@@ -19,11 +19,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-</div>
-<div align="center">
-<img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/main/developer.gif?raw=true" width="86%" height="87%"  style="border-radius: 3%;">
-</img>
-</div>
+
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=blue-green&hide_border=true" alt="GitHub Streak" width="87%" height="87%"/></a>
