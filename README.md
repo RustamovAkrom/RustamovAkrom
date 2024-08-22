@@ -48,9 +48,9 @@
   <h3>Connect with Me</h3>
   <p>
     <a href="https://t.me/RustamovAkrom2007" target="_blank"><img src="https://img.shields.io/badge/Telegram-%23007276.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> |
-    <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> |
-    <a href="https://facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> |
-    <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://instagram.com/rustamovakromjon327" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> |
+    <a href="https://facebook.com/profile.php?id=61560959857770" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> |
+    <a href="https://twitter.com/AkromDev01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   </p>
 </div>
 
