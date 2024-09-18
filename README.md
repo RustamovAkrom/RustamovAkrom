@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00FFD1&labelColor=000000" alt="SQLite"/>
   <img src="https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FFD1&labelColor=000000" alt="Redis"/>
   <img src="https://img.shields.io/badge/-NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=00FFD1&labelColor=000000" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/-Celery-0D1117?style=for-the-badge&logo=celery&logoColor=00FFD1&labelColor=000000" alt="Celery"/>
+  <img src="https://img.shields.io/badge/-Aiogram-0D1117?style=for-the-badge&logo=aiogram&logoColor=00FFD1&labelColor=000000" alt="Aiogram"/>
 </div>
 
 ## 🌐 Socials
