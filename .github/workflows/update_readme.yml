@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main  # Измените на вашу основную ветку, если она другая
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo "## My Projects" >> README.md
+          echo "Here are my latest projects:" >> README.md
+          for dir in */ ; do
+            if [ -d "$dir/.git" ]; then
+              project_name=$(basename "$dir")
+              echo "- [$project_name](https://github.com/RustamovAkrom/$project_name)" >> README.md
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Action"
+          git config --local user.email "action@github.com"
+          git add README.md
+          git commit -m "Update README with latest projects" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push origin main  # Измените на вашу основную ветку
