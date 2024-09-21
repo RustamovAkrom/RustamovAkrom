@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Akrom%20Rustamov&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=180&section=header&text=Akrom%20Rustamov&fontSize=30&fontColor=00FFD1&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&theme=react-dark&hide_border=true&area=true" />
@@ -17,7 +17,7 @@
 
 ### Языки и инструменты, с которыми я работаю:
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFD1&labelColor=000000" alt="Python"/>
   <img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=00FFD1&labelColor=000000" alt="Django"/>
   <img src="https://img.shields.io/badge/-Django%20REST-0D1117?style=for-the-badge&logo=django&logoColor=00FFD1&labelColor=000000" alt="Django REST"/>
@@ -62,4 +62,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=footer"/>
