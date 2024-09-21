@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=180&section=header&text=Akrom%20Rustamov&fontSize=30&fontColor=00FFD1&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000012&height=180&section=header&text=Akrom%20Rustamov&fontSize=30&fontColor=00FFD1&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&theme=react-dark&hide_border=true&area=true" />
@@ -12,8 +12,9 @@
 
 <!-- ./STATS  -->
 <div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=react-dark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="AkromRustamov" />
+  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=react-dark&hide_border=true&stroke=FFFFFF&background=0D1117&ring=00FFD2&fire=00FFD1&currStreakLabel=00FFD1" alt="AkromRustamov" />
 </div>
+
 
 ### Языки и инструменты, с которыми я работаю:
 
@@ -38,13 +39,15 @@
 
 <br/>
 
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1c1c1c; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1c1c1c; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 255, 225, 0.2);">
     <div style="flex: 1;">
         <p>- 📍 &nbsp; Местоположение: Узбекистан</p>
         <p>- 📝 &nbsp; Спрашивайте о чем угодно, я рад помочь</p>
         <p>- 📨 &nbsp; Как со мной связаться: <a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a></p>
     </div>
 </div>
+
+<br/>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
     <a href="https://t.me/RustamovAkrom2007" target="_blank" style="margin: 0 10px;">
@@ -62,4 +65,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000012&height=120&section=footer"/>
