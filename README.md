@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=00FFD1&background=000000&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Python+Developer" alt="Typing SVG">
 </h1>
 
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
