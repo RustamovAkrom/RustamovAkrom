@@ -11,9 +11,8 @@
 </div>
 
 <!-- ./STATS  -->
-<div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=react-dark&hide_border=true&stroke=FFFFFF&background=0D1117&ring=00FFD2&fire=00FFD1&currStreakLabel=00FFD1" alt="AkromRustamov" />
-</div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="RustamovAkrom" /></div>
+
 
 
 ### Языки и инструменты, с которыми я работаю:
