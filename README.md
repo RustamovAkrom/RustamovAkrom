@@ -71,3 +71,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000012&height=120&section=footer"/>
+
+<div>
+    <img src="images/img-1.jpg" alt="logo" style="border-radius: 15px;" width="100%" height="70%">
+</div>
