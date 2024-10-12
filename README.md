@@ -6,13 +6,13 @@
 </head>
 <body style="background-image: url(images/img-2.jpg);">
     
-<div>
-    <img src="images/img-1.jpg" alt="logo" style="border-radius: 15px;" width="100%" height="70%">
+<div align="center">
+    <img src="images/img-1.jpg" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
 </div>
 
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&theme=react-dark&hide_border=true&area=true" />
+   <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&theme=react-dark&hide_border=true&area=true" />
 </div> 
 
 
@@ -23,7 +23,7 @@
 </div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="RustamovAkrom" /></div>
+<div align="center"><img height="auto" width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="RustamovAkrom" /></div>
 
 
 
@@ -31,10 +31,20 @@
 
 <div align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,docker,nginx,graphql,mongodb,elasticsearch,html,css,htmx)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,docker,nginx,graphql,mongodb,elasticsearch,html,css,htmx" alt="skills">
+</a>
 
 </div>
 
+<!-- <div align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="skills">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=spotify" alt="skills">
+    </a>
+</div> -->
 
 <br/>
 
@@ -42,26 +52,31 @@
     <div style="flex: 1;">
         <p>- 📍 &nbsp; Местоположение: Узбекистан</p>
         <p>- 📝 &nbsp; Спрашивайте о чем угодно, я рад помочь</p>
-        <p>- 📨 &nbsp; Как со мной связаться: <a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a></p>
+        <p>- 📨 &nbsp; Как со мной связаться: <a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a>, <a href="#" target="_blank" style="color: #00bfbf;">akromjonrustamov56@gmail.com</a></p>
     </div>
 </div>
 
 <br/>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
+
+<p align="center">
     <a href="https://t.me/RustamovAkrom2007" target="_blank" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Telegram-%23007276.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Telegram-%23007276.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="social" />
     </a>
     <a href="https://instagram.com/rustamovakromjon327" target="_blank" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="social" />
+    </a>
+    <a href="https://www.linkedin.com/in/akrom-rustamov-255b372b7/" target="_blank" style="margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Linkedin-%231DA1F7.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="social" />
     </a>
     <a href="https://facebook.com/profile.php?id=61560959857770" target="_blank" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="social" />
     </a>
     <a href="https://twitter.com/AkromDev01" target="_blank" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="social" />
     </a>
-</div>
+</p>
+
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
