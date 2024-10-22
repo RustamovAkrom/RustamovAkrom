@@ -32,7 +32,7 @@
 <div align="left">
   
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,docker,nginx,graphql,mongodb,elasticsearch,html,css,htmx" alt="skills">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,git,github,linux,docker,nginx,graphql,mongodb,elasticsearch,html,css,htmx" alt="skills">
 </a>
 
 </div>
