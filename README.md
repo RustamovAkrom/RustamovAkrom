@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="background-image: url(images/img-2.jpg);">
-    
 <div align="center">
     <img src="images/img-1.jpg" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
 </div>
@@ -20,6 +12,7 @@
 <div align="center">  
   <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="AkromRustamov github stats" /> 
   <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
 </div>
 
 <!-- ./STATS  -->
@@ -27,32 +20,24 @@
 
 
 
-### Языки и инструменты, с которыми я работаю:
+### Languages and tools I work with:
 
 <div align="left">
   
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,git,github,linux,docker,nginx,graphql,mongodb,elasticsearch,html,css,htmx" alt="skills">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,git,github,linux,docker,nginx,html,css,htmx" alt="skills">
 </a>
 
 </div>
-
-<!-- <div align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="skills">
-    </a>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spotify" alt="skills">
-    </a>
-</div> -->
 
 <br/>
 
 <div style="display: flex; align-items: center; justify-content: space-between; background-color: #1c1c1c; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 255, 225, 0.2);">
     <div style="flex: 1;">
-        <p>- 📍 &nbsp; Местоположение: Узбекистан</p>
-        <p>- 📝 &nbsp; Спрашивайте о чем угодно, я рад помочь</p>
-        <p>- 📨 &nbsp; Как со мной связаться: <a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a>, <a href="#" target="_blank" style="color: #00bfbf;">akromjonrustamov56@gmail.com</a></p>
+        <p>- 📍 &nbsp; Location: Uzbekistan</p>
+        <p>- 📝 &nbsp; Ask me anything, I'm happy to help</p>
+        <p>- 📨 &nbsp; How to contact me:<a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a>,</p>
+        <p>- 💬 &nbsp; Subscribed my telegram channel: <a href="https://t.me/akrom_blog_01" target="_blank" style="color: #00bfbf;">@akrom_blog_01</a></p>
     </div>
 </div>
 
@@ -83,7 +68,3 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/RustamovAkrom/count.svg" /></p> 
   <br>
 </div>
-
-
-</body>
-</html>
