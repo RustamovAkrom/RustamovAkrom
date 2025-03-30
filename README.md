@@ -43,11 +43,11 @@
 </center>
 
 <center>
-    <p><h2><b>Languages and tools I work with:</b></h2></p>
+    <p><h2><b>Social Contacts:</b></h2></p>
 </center>
 
 <p align="center">
-    <a href="https://t.me/RustamovAkrom2007" target="_blank" style="margin: 0 10px;">
+    <a href="https://t.me/Akrom_Rustamov" target="_blank" style="margin: 0 10px;">
         <img src="https://img.shields.io/badge/Telegram-%23007276.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="social" />
     </a>
     <a href="https://instagram.com/rustamovakromjon327" target="_blank" style="margin: 0 10px;">
