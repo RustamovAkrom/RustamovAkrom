@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/i.png" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
+    <img src="images/github-header-image.png" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
 </div>
 
 
@@ -20,29 +20,31 @@
 
 
 
-### Languages and tools I work with:
+<center>
+<p><h2><b>Languages and tools I work with:</b></h2></p>
+</center>
 
-<div align="left">
-  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,bootstrap,postgresql,redis,sqlite,git,github,linux,docker,nginx,html,css,htmx" alt="skills">
-</a>
+<p align="center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42"></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42"></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42"></a>
+</p>
+</center>
 
-</div>
-
-<br/>
-
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #1c1c1c; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 255, 225, 0.2);">
-    <div style="flex: 1;">
-        <p>- 📍 &nbsp; Location: Uzbekistan</p>
-        <p>- 📝 &nbsp; Ask me anything, I'm happy to help</p>
-        <p>- 📨 &nbsp; How to contact me:<a href="https://t.me/RustamovAkrom2007" target="_blank" style="color: #00bfbf;">@RustamovAkrom2007</a>,</p>
-        <p>- 💬 &nbsp; Subscribed my telegram channel: <a href="https://t.me/akrom_blog_01" target="_blank" style="color: #00bfbf;">@akrom_blog_01</a></p>
-    </div>
-</div>
-
-<br/>
-
+<center>
+    <p><h2><b>Languages and tools I work with:</b></h2></p>
+</center>
 
 <p align="center">
     <a href="https://t.me/RustamovAkrom2007" target="_blank" style="margin: 0 10px;">
@@ -68,3 +70,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/RustamovAkrom/count.svg" /></p> 
   <br>
 </div>
+
