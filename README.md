@@ -2,7 +2,15 @@
     <img src="images/github-header-image.png" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&bg_color=0d1117&color=ffffff&line=00ffcc&point=08303a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+:)+welcome+to+my+GitHub!;My+name+is+Akrom;I+am+Backend+developer+</>" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+
+
 
 <!-- Unified dark/cyan style for all widgets -->
 <!-- Main wide streak stats -->
@@ -10,6 +18,11 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=dark&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=00ffcc&dates=ffffff" alt="GitHub Streak" width="98%"/>
   </a>
+</p>
+
+<!--  -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RustamovAkrom&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="trophies" />
 </p>
 
 <!-- Two stats side by side below -->
@@ -66,3 +79,5 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/RustamovAkrom/count.svg" /></p> 
   <br>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&bg_color=0d1117&color=ffffff&line=00ffcc&point=08303a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
