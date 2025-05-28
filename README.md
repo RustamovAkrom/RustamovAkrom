@@ -5,11 +5,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+:)+welcome+to+my+GitHub!;My+name+is+Akrom;I+am+Backend+developer+</>" alt="Typing SVG" />
 </h1>
-<p align="center">
-  <img src="https://github.com/RustamovAkrom/RustamovAkrom/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&bg_color=0d1117&color=ffffff&line=00ffcc&point=08303a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Unified dark/cyan style for all widgets -->
@@ -79,5 +76,3 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/RustamovAkrom/count.svg" /></p> 
   <br>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&bg_color=0d1117&color=ffffff&line=00ffcc&point=08303a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
