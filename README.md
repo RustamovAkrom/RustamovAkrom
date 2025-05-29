@@ -1,10 +1,11 @@
 <div align="center">
     <img src="images/github-header-image.png" alt="logo" style="border-radius: 15px;" width="97%" height="40%">
 </div>
-
+<br>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+:)+welcome+to+my+GitHub!;My+name+is+Akrom;I+am+Backend+developer+</>" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=35&pause=1000&color=00FFA7&width=435&lines=Hi+%3A)+Welcome+to+my+GitHub;My+name+is+Akrom;I+am+backend+developer" alt="Typing SVG" /></a>
 </h1>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RustamovAkrom&bg_color=0d1117&color=ffffff&line=00ffcc&point=08303a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -13,7 +14,7 @@
 <!-- Main wide streak stats -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=dark&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=00ffcc&dates=ffffff" alt="GitHub Streak" width="98%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RustamovAkrom&theme=dark&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=00ffcc&dates=ffffff&hide_border=true" alt="GitHub Streak" width="98%"/>
   </a>
 </p>
 
@@ -25,14 +26,33 @@
 <!-- Two stats side by side below -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Top Languages" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_radius=10&hide_border=true" alt="GitHub Stats" height="180"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&title_color=00ffcc&text_color=ffffff&bg_color=0d1117&border_radius=10&hide_border=true" alt="Top Languages" height="180"/>
   </a>
 </p>
 
 <!-- My Skills -->
+<h2 align="center">🛠️ MY SKILLS</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ffcc&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ffcc&labelColor=0d1117"/>
+</div>
 <h2 align="center">🛠️ MY SKILLS</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
