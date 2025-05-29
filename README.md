@@ -33,26 +33,6 @@
   </a>
 </p>
 
-<!-- My Skills -->
-<h2 align="center">🛠️ MY SKILLS</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ffcc&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ffcc&labelColor=0d1117"/>
-</div>
 <h2 align="center">🛠️ MY SKILLS</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
