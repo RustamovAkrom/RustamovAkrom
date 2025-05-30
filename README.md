@@ -77,8 +77,4 @@
   <br>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkromRustamov/RustamovAkrom/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RustamovAkrom/RustamovAkrom/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/RustamovAkrom/RustamovAkrom/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/RustamovAkrom/RustamovAkrom/blob/output/ocean.gif?raw=true)
