@@ -77,4 +77,4 @@
   <br>
 </div>
 
-![snake gif](https://github.com/RustamovAkrom/RustamovAkrom/blob/output/github-snake-dark.svg?raw=true)
+![snake gif](https://raw.githubusercontent.com/RustamovAkrom/RustamovAkrom/output/github-contribution-grid-snake-dark.svg)
