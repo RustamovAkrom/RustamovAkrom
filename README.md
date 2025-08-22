@@ -71,10 +71,10 @@
     <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00ffcc" alt="Twitter" />
   </a>
 </p>
-<div align="center">
+<!-- <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/RustamovAkrom/count.svg" /></p> 
   <br>
-</div>
+</div> -->
 
 ![snake gif](https://raw.githubusercontent.com/RustamovAkrom/RustamovAkrom/output/github-contribution-grid-snake-dark.svg)
