@@ -8,19 +8,19 @@
 <!-- 🎯 MAIN LINKS -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 10px 0;">
   <a href="https://akrom-omega.vercel.app/about" target="_blank">
-    <img src="images/buttons/about.png" width="150" alt="About Me" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/1.png" width="150" alt="About Me" style="border-radius: 12px; transition: transform 0.3s ease;"/>
   </a>
   <a href="https://akrom-omega.vercel.app/projects" target="_blank">
-    <img src="images/buttons/portfolio.png" width="150" alt="Portfolio" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/2.png" width="150" alt="Portfolio" style="border-radius: 12px; transition: transform 0.3s ease;"/>
   </a>
   <a href="https://akrom-omega.vercel.app/resumes/resume-1.pdf" target="_blank">
-    <img src="images/buttons/resume.png" width="150" alt="Resume" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/3.png" width="150" alt="Resume" style="border-radius: 12px; transition: transform 0.3s ease;"/>
   </a>
   <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank">
-    <img src="images/buttons/linkedin.png" width="150" alt="LinkedIn" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/4.png" width="150" alt="LinkedIn" style="border-radius: 12px; transition: transform 0.3s ease;"/>
   </a>
   <a href="https://akrom-omega.vercel.app/contact" target="_blank">
-    <img src="images/buttons/contact.png" width="150" alt="Contact" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/5.png" width="150" alt="Contact" style="border-radius: 12px; transition: transform 0.3s ease;"/>
   </a>
 </div>
 
@@ -29,12 +29,13 @@
 <!-- 🔥 STREAK STATS -->
 <div align="center" style="margin: 20px 0;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&background=0d1117&ring=2388ff&fire=0abaff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=1e90ff&dates=9BB1C9&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" 
     width="100%" 
     alt="GitHub Streak"
-    style="border-radius: 12px; box-shadow: 0 0 25px #0a192f88;"
+    style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.1);"
   />
 </div>
+
 
 <!-- 🛰️ SECOND BANNER -->
 <div align="center">
@@ -44,16 +45,16 @@
 <!-- 📊 GITHUB STATS -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&title_color=2388ff&icon_color=0abaff&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d0d0d&hide_border=true&border_radius=12" 
     height="160"
     alt="GitHub Stats"
-    style="box-shadow: 0 0 20px #0a192f80;"
+    style="box-shadow: 0 0 20px rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px;"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&title_color=2388ff&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d&hide_border=true&border_radius=12" 
     height="160"
     alt="Top Languages"
-    style="box-shadow: 0 0 20px #0a192f80;"
+    style="box-shadow: 0 0 20px rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px;"
   />
 </div>
 
@@ -94,6 +95,8 @@
     <sub style="color:#9BB1C9;">💬 Let’s connect and build something amazing together</sub>
   </div>
 </div>
+
+<br>
 
 <!-- 👁️ VISITOR COUNT -->
 <div align="center" style="
