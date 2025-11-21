@@ -1,14 +1,24 @@
 <!-- ========================= -->
-<!--   DARK—SEAMLESS README    -->
+<!--      ANIMATED HEADER      -->
 <!-- ========================= -->
-
-<!-- ANIMATED TYPING TITLE -->
 <p align="center">
+  <!-- Waving background, белый на темном фоне, выше чем footer -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" 
-    alt="Akrom Rustamov" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffffff&section=header&animation=twinkling" 
+    width="100%" 
+    alt="Animated Header"
   />
 </p>
+
+<!-- Плавающий анимированный текст поверх waving -->
+<p align="center" style="margin-top:-120px;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" 
+    alt="Typing Header" 
+  />
+</p>
+
+
 
 <!-- SNAKE CONTRIBUTION GRID -->
 <p align="center">
@@ -143,7 +153,11 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" 
+    width="100%" 
+    alt="footer wave"
+  />
   <br />
-  <sub style="color:#6b7280">built with ♥ — Akrom</sub>
+  <sub style="color:#ffffff">built with ♥ — Akrom</sub>
 </p>
