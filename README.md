@@ -30,12 +30,12 @@
 <table align="center" cellpadding="8">
   <tr>
     <td align="center">
-      <a href="https://akrom-omega.vercel.app/about">
+      <a href="https://akrom-omega.vercel.app/projects">
         <img src="images/buttons/1.png" width="150" alt="About" />
       </a>
     </td>
     <td align="center">
-      <a href="https://akrom-omega.vercel.app/projects">
+      <a href="https://akrom-omega.vercel.app/about">
         <img src="images/buttons/2.png" width="150" alt="Projects" />
       </a>
     </td>
