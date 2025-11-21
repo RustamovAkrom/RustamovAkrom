@@ -11,13 +11,12 @@
 </p>
 
 <!-- Плавающий анимированный текст поверх waving -->
-<p align="center" style="margin-top:-120px;">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" 
-    alt="Typing Header" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" 
+    alt="Akrom Rustamov" 
   />
 </p>
-
 
 
 <!-- SNAKE CONTRIBUTION GRID -->
