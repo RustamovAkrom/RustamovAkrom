@@ -1,116 +1,126 @@
-<!-- 🌌 HEADER BANNER -->
-<div align="center">
-  <img src="images/banner.png" alt="Akrom Rustamov Banner" style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #00000040;">
-</div>
+<!-- ========================= -->
+<!--   DARK-SEAMLESS README    -->
+<!-- ========================= -->
 
-<br>
+<!-- HEADER: Animated typing (image) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=720&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" alt="Akrom Rustamov" />
+</p>
 
-<!-- 🎯 MAIN LINKS -->
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 10px 0;">
-  <a href="https://akrom-omega.vercel.app/about" target="_blank">
-    <img src="images/buttons/1.png" width="150" alt="About Me" />
+<!-- thin divider (svg line) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/clean.svg" width="100%" alt="divider" />
+</p>
+
+<!-- BANNERS -->
+<p align="center">
+  <!-- host banner images in your repo at /images/banner.png -->
+  <img src="images/banner.png" alt="banner" width="100%" />
+</p>
+
+<br />
+
+<!-- MAIN LINKS (grid via table to avoid CSS) -->
+<table align="center" cellpadding="8">
+  <tr>
+    <td align="center">
+      <a href="https://akrom-omega.vercel.app/about" target="_blank" rel="noopener">
+        <img src="images/buttons/1.png" alt="About" width="150" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://akrom-omega.vercel.app/projects" target="_blank" rel="noopener">
+        <img src="images/buttons/2.png" alt="Projects" width="150" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://akrom-omega.vercel.app/resumes/resume-1.pdf" target="_blank" rel="noopener">
+        <img src="images/buttons/3.png" alt="Resume" width="150" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank" rel="noopener">
+        <img src="images/buttons/4.png" alt="LinkedIn" width="150" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://akrom-omega.vercel.app/contact" target="_blank" rel="noopener">
+        <img src="images/buttons/5.png" alt="Contact" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- STATS CARDS: use transparent backgrounds so they blend with GitHub dark -->
+<p align="center">
+  <table align="center" cellpadding="8">
+    <tr>
+      <td align="center">
+        <!-- main github stats: transparent -->
+        <img src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&border_radius=12" alt="GitHub Stats" width="360" />
+      </td>
+      <td align="center">
+        <!-- top langs: transparent -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&border_radius=12" alt="Top Languages" width="360" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <!-- streaks: transparent background -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=github-dark&hide_border=true&background=00000000" alt="Streak" width="740" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br />
+
+<!-- SECOND BANNER (optional) -->
+<p align="center">
+  <img src="images/banners/2.png" alt="banner 2" width="100%" />
+</p>
+
+<br />
+
+<!-- CONNECT / SOCIALS: badges (shields.io) — they match dark background -->
+<p align="center">
+  <a href="https://t.me/Akrom_Rustamov" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Telegram-18181B?style=for-the-badge&logo=telegram&logoColor=7DD3FC&labelColor=0d1117" alt="Telegram" />
   </a>
-  <a href="https://akrom-omega.vercel.app/projects" target="_blank">
-    <img src="images/buttons/2.png" width="150" alt="Portfolio"/>
+  <a href="https://instagram.com/rustamovakromjon327" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E879F9&labelColor=0d1117" alt="Instagram" />
   </a>
-  <a href="https://akrom-omega.vercel.app/resumes/resume-1.pdf" target="_blank">
-    <img src="images/buttons/3.png" width="150" alt="Resume"/>
+  <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0d1117" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank">
-    <img src="images/buttons/4.png" width="150" alt="LinkedIn"/>
-  </a>
-  <a href="https://akrom-omega.vercel.app/contact" target="_blank">
-    <img src="images/buttons/5.png" width="150" alt="Contact"/>
+  <a href="https://x.com/AkromDev01" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=1DA1F2&labelColor=0d1117" alt="X" />
   </a>
 </p>
 
-<br>
+<br />
 
-<!-- 🔥 STREAK STATS -->
-<div align="center" style="margin: 20px 0;">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" 
-    width="100%" 
-    alt="GitHub Streak"
-    style="border-radius: 12px; box-shadow: 0 0 25px rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.1);"
-  />
-</div>
+<!-- THIRD BANNER -->
+<p align="center">
+  <img src="images/banners/3.png" alt="banner 3" width="100%" />
+</p>
 
+<br />
 
-<!-- 🛰️ SECOND BANNER -->
-<div align="center">
-  <img src="images/banners/2.png" alt="Banner 2" style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #00000040;">
-</div>
+<!-- VISITOR COUNTER inside a simple center block -->
+<p align="center">
+  <img src="https://count.getloli.com/get/@RustamovAkrom?theme=moebooru" alt="visitor count" />
+  <br />
+  <sub style="color:#9BB1C9">✨ welcome to my developer universe</sub>
+</p>
 
-<!-- 📊 GITHUB STATS -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 20px 0;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d0d0d&hide_border=true&border_radius=12" 
-    height="160"
-    alt="GitHub Stats"
-    style="box-shadow: 0 0 20px rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d0d0d&hide_border=true&border_radius=12" 
-    height="160"
-    alt="Top Languages"
-    style="box-shadow: 0 0 20px rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px;"
-  />
-</div>
+<br />
 
-<!-- 🌆 THIRD BANNER -->
-<div align="center">
-  <img src="images/banners/3.png" alt="Banner 3" style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #00000040;">
-</div>
-
-<!-- 🤝 CONNECT SECTION -->
-<div align="center" style="
-  background: linear-gradient(90deg, #0d1117 0%, #071029 100%);
-  padding: 24px;
-  border-radius: 16px;
-  box-shadow: 0 8px 30px rgba(3,10,24,0.6);
-  max-width: 760px;
-  margin: 40px auto;
-">
-  <h3 style="color: #4FC1E9; font-family: 'Segoe UI', sans-serif; margin-bottom: 16px;">
-    🌐 Connect with Me
-  </h3>
-  
-  <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px; margin: 0;">
-    <a href="https://t.me/Akrom_Rustamov" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=4FC1E9" />
-    </a>
-    <a href="https://instagram.com/rustamovakromjon327" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E1306C" />
-    </a>
-    <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin-in&logoColor=0A66C2" />
-    </a>
-    <a href="https://x.com/AkromDev01" target="_blank">
-      <img src="https://img.shields.io/badge/X_(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=1DA1F2" />
-    </a>
-  </p>
-
-  <div style="margin-top: 14px;">
-    <sub style="color:#9BB1C9;">💬 Let’s connect and build something amazing together</sub>
-  </div>
-</div>
-
-<br>
-
-<!-- 👁️ VISITOR COUNT -->
-<div align="center" style="
-  background: linear-gradient(90deg, #0d1117 0%, #071029 100%);
-  padding: 14px;
-  border-radius: 14px;
-  box-shadow: 0 8px 30px rgba(3,10,24,0.6);
-  max-width: 740px;
-  margin: auto;
-">
-  <div>
-    <img src="https://count.getloli.com/get/@RustamovAkrom?theme=rule34" alt="Visitor Count" />
-  </div>
-  <div style="margin-top: 8px;">
-    <sub style="color:#9BB1C9;">✨ You are visiting Akrom's profile — welcome to my developer universe ✨</sub>
-  </div>
-</div>
+<!-- FOOTER: thin divider + small note -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" alt="footer wave" />
+  <br />
+  <sub style="color:#6b7280">built with ♥ — Akrom</sub>
+</p>
