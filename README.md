@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER BANNER -->
 <div align="center">
-  <img src="images/banners/1.png" alt="Akrom Rustamov Banner" style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #00000040;">
+  <img src="images/banner.png" alt="Akrom Rustamov Banner" style="width: 100%; border-radius: 12px; box-shadow: 0 0 20px #00000040;">
 </div>
 
 <br>
