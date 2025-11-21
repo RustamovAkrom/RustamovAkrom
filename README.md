@@ -6,23 +6,23 @@
 <br>
 
 <!-- 🎯 MAIN LINKS -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 10px 0;">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 10px 0;">
   <a href="https://akrom-omega.vercel.app/about" target="_blank">
-    <img src="images/buttons/1.png" width="150" alt="About Me" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/1.png" width="150" alt="About Me" />
   </a>
   <a href="https://akrom-omega.vercel.app/projects" target="_blank">
-    <img src="images/buttons/2.png" width="150" alt="Portfolio" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/2.png" width="150" alt="Portfolio"/>
   </a>
   <a href="https://akrom-omega.vercel.app/resumes/resume-1.pdf" target="_blank">
-    <img src="images/buttons/3.png" width="150" alt="Resume" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/3.png" width="150" alt="Resume"/>
   </a>
   <a href="https://linkedin.com/in/akrom-rustamov-255b372b7" target="_blank">
-    <img src="images/buttons/4.png" width="150" alt="LinkedIn" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/4.png" width="150" alt="LinkedIn"/>
   </a>
   <a href="https://akrom-omega.vercel.app/contact" target="_blank">
-    <img src="images/buttons/5.png" width="150" alt="Contact" style="border-radius: 12px; transition: transform 0.3s ease;"/>
+    <img src="images/buttons/5.png" width="150" alt="Contact"/>
   </a>
-</div>
+</p>
 
 <br>
 
