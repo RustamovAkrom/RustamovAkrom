@@ -18,12 +18,6 @@
   />
 </p>
 
-
-<!-- SNAKE CONTRIBUTION GRID -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
 <!-- MAIN HEADER BANNER -->
 <p align="center">
   <img src="images/banner.png" width="100%" alt="banner" />
@@ -157,6 +151,10 @@
     width="100%" 
     alt="footer wave"
   />
+  <!-- SNAKE CONTRIBUTION GRID -->
   <br />
-  <sub style="color:#ffffff">built with ♥ — Akrom</sub>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
