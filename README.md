@@ -1,23 +1,3 @@
-<!-- ========================= -->
-<!--      ANIMATED HEADER      -->
-<!-- ========================= -->
-<p align="center">
-  <!-- Waving background, белый на темном фоне, выше чем footer -->
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ffffff&section=header&animation=twinkling" 
-    width="100%" 
-    alt="Animated Header"
-  />
-</p>
-
-<!-- Плавающий анимированный текст поверх waving -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=720&lines=Akrom+Rustamov;Creative+Developer;Tech+Explorer" 
-    alt="Akrom Rustamov" 
-  />
-</p>
-
 <!-- MAIN HEADER BANNER -->
 <p align="center">
   <img src="images/banner.png" width="100%" alt="banner" />
@@ -61,48 +41,7 @@
 <!--       GITHUB STATS        -->
 <!-- ========================= -->
 
-<p align="center">
-  <table align="center" cellpadding="8">
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=RustamovAkrom&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=ffffff&border_radius=12" 
-          width="360" 
-          alt="GitHub Stats"
-          style="filter: grayscale(100%) brightness(120%);"
-        />
-      </td>
-      <td align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustamovAkrom&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&border_radius=12" 
-          width="360" 
-          alt="Top Languages"
-          style="filter: grayscale(100%) brightness(120%);"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com?user=RustamovAkrom&theme=dark&hide_border=true&background=00000000&fire=ffffff&ring=ffffff&currStreakLabel=ffffff" 
-          width="740" 
-          alt="GitHub Streak"
-          style="filter: grayscale(100%) brightness(120%);"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
-
 <br />
-
-<!-- ========================= -->
-<!--        BANNER #2          -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="images/banners/2.png" width="100%" alt="banner 2" />
-</p>
 
 <br />
 
@@ -116,19 +55,6 @@
   <a href="https://linkedin.com/in/akrom-rustamov-255b372b7"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0d1117" /></a>
   <a href="https://x.com/AkromDev01"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=1DA1F2&labelColor=0d1117" /></a>
 </p>
-
-<br />
-
-<!-- ========================= -->
-<!--        BANNER #3          -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="images/banners/3.png" width="100%" alt="banner 3" />
-</p>
-
-<br />
-
 <!-- ========================= -->
 <!--     VISITOR COUNTER       -->
 <!-- ========================= -->
@@ -153,8 +79,4 @@
   />
   <!-- SNAKE CONTRIBUTION GRID -->
   <br />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
