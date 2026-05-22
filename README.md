@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="images/new_banner.png"
+    src="images/banner.png"
     width="100%"
     alt="banner"
   />
